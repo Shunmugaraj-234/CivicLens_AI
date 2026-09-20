@@ -29,33 +29,13 @@
 
 ## 🚀 Getting Started
 
-### 1. Installation
-
-```bash
-# Clone or navigate to directory
-cd "CivicLens AI"
-
-# Install dependencies
-npm install
-```
-
-### 2. Environment Configuration (Optional)
-
-Create a `.env` file in the root directory:
-
-```env
-VITE_GEMINI_API_KEY=your_google_gemini_api_key
-```
-
-*(Note: If no API key is provided, CivicLens AI automatically activates its smart AI fallback simulation engine so all features work 100% offline).*
-
-### 3. Run Development Server
+### 1. Run Development Server
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open https://civiclens-ai-two.vercel.app in your browser.
 
 ---
 
